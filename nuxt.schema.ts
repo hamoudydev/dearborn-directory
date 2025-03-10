@@ -240,13 +240,11 @@ export default defineNuxtSchema({
           title: 'Tags',
           description: 'Tags for the directory.',
           default: [
-            { name: 'SAAS', color: 'blue' },
-            { name: 'dashboard', color: 'green' },
-            { name: 'landing-page' },
-            { name: 'toolbox' },
-            { name: 'agency' },
-            { name: 'markdown-based' },
-            { name: 'basics', color: 'indigo' },
+            { name: 'consulting', color: 'blue' },
+            { name: 'websites', color: 'green' },
+            { name: 'IT' },
+            { name: 'mortgage' },
+            { name: 'real estate' },
           ],
         }),
         tagPages: group({

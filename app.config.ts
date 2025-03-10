@@ -57,13 +57,11 @@ export default defineAppConfig({
       labelForCard: 'Featured ✨',
     },
     tags: [
-      { name: 'SAAS', color: 'blue' },
-      { name: 'dashboard', color: 'green' },
-      { name: 'landing-page' },
-      { name: 'toolbox' },
-      { name: 'agency' },
-      { name: 'markdown-based' },
-      { name: 'basics', color: 'indigo' },
+      { name: 'consulting', color: 'blue' },
+      { name: 'websites', color: 'green' },
+      { name: 'IT' },
+      { name: 'mortgage' },
+      { name: 'real estate' },
     ],
     tagPages: {
       title: 'Available {0} products:',
@@ -104,10 +102,10 @@ export default defineAppConfig({
       },
       {
         title: "Categories", links: [
-          { title: "SAAS", link: "/tags/saas" },
-          { title: "Dashboard", link: "/tags/dashboard" },
-          { title: "Landing Page", link: "/tags/landing-page" },
-          { title: "Toolbox", link: "/tags/toolbox" },
+          { title: "consulting", link: "/tags/consulting" },
+          { title: "websites", link: "/tags/websites" },
+          { title: "mortgage", link: "/tags/mortgage" },
+          { title: "real estate", link: "/tags/realestate" },
         ],
       },
       {
