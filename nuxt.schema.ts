@@ -242,9 +242,9 @@ export default defineNuxtSchema({
           default: [
             { name: 'consulting', color: 'blue' },
             { name: 'websites', color: 'green' },
-            { name: 'IT' },
-            { name: 'mortgage' },
-            { name: 'real estate' },
+            { name: 'IT', color: 'yellow' },
+            { name: 'mortgage', color: 'red' },
+            { name: 'real estate', color: 'purple' },
           ],
         }),
         tagPages: group({
