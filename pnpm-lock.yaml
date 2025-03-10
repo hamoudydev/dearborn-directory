@@ -47,6 +47,9 @@ importers:
       posthog-js:
         specifier: ^1.225.1
         version: 1.225.1(@rrweb/types@2.0.0-alpha.17)
+      tailwindcss:
+        specifier: ^3.0.20
+        version: 3.4.17
       vue:
         specifier: ^3.5.13
         version: 3.5.13(typescript@5.8.2)
