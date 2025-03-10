@@ -8,7 +8,7 @@ const searchPlaceholder = await getSearchPlaceholder();
 async function getSearchPlaceholder() {
   if (searchConfig?.placeholder && searchConfig.placeholder.includes('{0}')) {
     const { data: count } = await useAsyncData('content-count', () => queryCollection('directory').count());
-    return formatString(searchConfig?.placeholder ?? 'Search among {0} listings', count.value);
+    return formatString(searchConfig?.placeholder ?? 'Search {0} businesses', count.value);
   }
 
   return searchConfig?.placeholder ?? 'Search';

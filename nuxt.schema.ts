@@ -106,7 +106,7 @@ export default defineNuxtSchema({
               title: 'Placeholder',
               description:
                 'Placeholder text for the search input. Use {0} to mark where to fill in the number of listings.',
-              default: 'Search among {0} tools',
+              default: 'Search {0} businesses',
             }),
             icon: field({
               type: 'icon',
@@ -281,7 +281,7 @@ export default defineNuxtSchema({
               type: 'string',
               title: 'Text',
               description: 'Text to display in the banner.',
-              default: 'Create your own directory website in minutes.',
+              default: 'Advertise with us!',
             }),
             link: field({
               type: 'string',
@@ -293,7 +293,7 @@ export default defineNuxtSchema({
               type: 'string',
               title: 'Brand Text',
               description: 'Brand text for the banner.',
-              default: 'MintedDirectory',
+              default: 'DearbornDirectory',
             }),
           },
         }),

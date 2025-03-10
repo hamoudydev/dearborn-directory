@@ -1,22 +1,17 @@
 ---
 layout: wide
 og_image:
-  title: My Directory
-  description: A brand new directory 🎉
+  title: Dearborn Directory
+  description: A Directory for the Dearborn Community
 ---
 
 ::pre-render-tags
 ::
 
-# This is your brand new directory ! 👋
+# A Business Directory for the Dearborn Community! 👋
 
-You can customize this page in markdown.
+Find a local business below
 
-See the [📚 **documentation**](https://minteddirectory.com/docs) to see how to customize your landing page.
-
-Get inspired by other directories:
-+ 📗 [Nuxtjs Starters](https://nuxtstarters.com)
-+ 🏠 [FortyTwoTools](https://fortytwotools.com)
 
 ---
 

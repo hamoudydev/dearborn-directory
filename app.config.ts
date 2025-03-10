@@ -1,26 +1,26 @@
 export default defineAppConfig({
   general: {
-    title: 'Minted Directory',
+    title: 'Dearborn Directory',
     logo: '',
-    iconLogo: 'fluent-emoji-flat:leaf-fluttering-in-wind',
+    iconLogo: 'fluent-emoji-flat:round-pushpin',
     language: 'en',
   },
   site: {
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: 'Minted Directory',
-    description: 'Example Description',
-    url: 'https://example.com',
+    name: 'Dearborn Directory',
+    description: 'A Directory for the Dearborn community.',
+    url: 'https://dearborndirectory.com',
     favicon: {
       image: '',
-      emoji: '🍃',
+      emoji: '📍',
     },
   },
   directory: {
     listingPageLayout: 'card',
     search: {
-      placeholder: 'Search among {0} tools',
+      placeholder: 'Search {0} businesses',
       icon: 'tabler:bow',
       tags: {
         // options: none,select,show-all,
@@ -74,9 +74,9 @@ export default defineAppConfig({
   header: {
     banner: {
       show: true,
-      text: 'Create your own directory website in minutes.',
-      link: 'https://minteddirectory.com',
-      brandText: 'MintedDirectory',
+      text: 'Advertise with us!',
+      link: 'https://dearborndirectory.com/advertise',
+      brandText: 'DearbornDirectory',
     },
     navbar: {
       colorModeSelector: true,
