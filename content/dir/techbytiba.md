@@ -1,11 +1,10 @@
 ---
-cover: /listings/techbytiba.png
 featured: true
 tags:
   - consulting
   - websites
   - IT
-card_image: /listings/techbytiba.png
+card_image: /techbytiba.png
 ---
 
 # Tech by Tiba
