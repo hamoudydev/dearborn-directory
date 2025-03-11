@@ -1,7 +1,7 @@
 ---
 layout: wide
 og_image:
-  title: Dearborn Directory
+  title: Souk Dearborn
   description: A Directory for the Dearborn Community
 ---
 

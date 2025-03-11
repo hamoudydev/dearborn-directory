@@ -1,6 +1,6 @@
 export default defineAppConfig({
   general: {
-    title: 'Dearborn Directory',
+    title: 'Souk Dearborn',
     logo: '',
     iconLogo: 'fluent-emoji-flat:round-pushpin',
     language: 'en',
@@ -9,9 +9,9 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: 'Dearborn Directory',
+    name: 'Souk Dearborn',
     description: 'A Directory for the Dearborn community.',
-    url: 'https://dearborndirectory.com',
+    url: 'https://soukdearborn.com',
     favicon: {
       image: '',
       emoji: '📍',
@@ -59,9 +59,9 @@ export default defineAppConfig({
     tags: [
       { name: 'consulting', color: 'blue' },
       { name: 'websites', color: 'green' },
-      { name: 'IT', color: 'yellow' },
-      { name: 'mortgage', color: 'red' },
-      { name: 'real estate', color: 'purple' },
+      { name: 'IT' },
+      { name: 'mortgage' },
+      { name: 'real estate' },
     ],
     tagPages: {
       title: 'Available {0} products:',
@@ -73,8 +73,8 @@ export default defineAppConfig({
     banner: {
       show: true,
       text: 'Advertise with us!',
-      link: 'https://dearborndirectory.com/advertise',
-      brandText: 'DearbornDirectory',
+      link: 'https://soukdearborn.com/advertise',
+      brandText: 'SoukDearborn',
     },
     navbar: {
       colorModeSelector: true,

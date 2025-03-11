@@ -242,9 +242,9 @@ export default defineNuxtSchema({
           default: [
             { name: 'consulting', color: 'blue' },
             { name: 'websites', color: 'green' },
-            { name: 'IT', color: 'yellow' },
-            { name: 'mortgage', color: 'red' },
-            { name: 'real estate', color: 'purple' },
+            { name: 'IT' },
+            { name: 'mortgage' },
+            { name: 'real estate' },
           ],
         }),
         tagPages: group({
@@ -291,7 +291,7 @@ export default defineNuxtSchema({
               type: 'string',
               title: 'Brand Text',
               description: 'Brand text for the banner.',
-              default: 'DearbornDirectory',
+              default: 'SoukDearborn',
             }),
           },
         }),

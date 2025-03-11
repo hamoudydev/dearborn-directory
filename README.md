@@ -11,9 +11,9 @@
 
 <br/>
 
-Learn more at [dearborndirectory.com](https://dearborndirectory.com)
+Learn more at [soukdearborn.com](https://soukdearborn.com)
 
-Read the [docs](https://dearborndirectory.com/docs)
+Read the [docs](https://soukdearborn.com/docs)
 
 ### Features:
 + 🖌️ Add Listings with markdown.
@@ -66,7 +66,7 @@ To customize the directory style:
 + Change the `primary`, `secondary` color and `fontFamily` in `tailwind.config.ts`
 + Customize the `app.config.ts`
 
-Read about the possible changes to the app config [here](https://dearborndirectory/docs/settings).
+Read about the possible changes to the app config [here](https://soukdearborn/docs/settings).
 
 ### Adding Content
 
@@ -82,7 +82,7 @@ Deploy as a pre-rendered, static site for best SEO performance:
 pnpm run generate
 ```
 
-Check out the [deployment documentation](https://dearborndirectory.com/docs/deployment) for more information.
+Check out the [deployment documentation](https://soukdearborn.com/docs/deployment) for more information.
 
 ## Community
 

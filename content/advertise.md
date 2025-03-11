@@ -9,7 +9,7 @@ ogImage:
 # Advertise your new app!
 
 #description
-Reach out to thousands of boilerplate fans, indiehackers, developers, and creators who visit and explore DearbornDirectory every month. By advertising your service or product here, you’ll be able to connect directly with this engaged audience. :rocket:
+Reach out to thousands of boilerplate fans, indiehackers, developers, and creators who visit and explore SoukDearborn every month. By advertising your service or product here, you’ll be able to connect directly with this engaged audience. :rocket:
 ::
 ---
 
@@ -19,7 +19,7 @@ Paid listings  to secure a spot in our directory by paying a fee. These listings
 ## Featured Listings
 Even in free directories, we offer featured or boosted listings. Businesses can pay for a premium position at the top of the directory, ensuring maximum visibility. Featured listings are highlighted to stand out, making it easier for potential customers to find and engage with businesses.
 
-Here’s an example of how featured listings will look to Dearborn Directory visitors:
+Here’s an example of how featured listings will look to Souk Dearborn visitors:
 
 :FeatureExample
 
@@ -30,4 +30,4 @@ Sponsors can place their brand on the homepage gaining exposure to our growing a
 
 ## Contact
 
-If you are interested in advertising on :SiteName contact us at [contact@dearborndirectory.com](mailto:contact@dearborndirectory.com)
+If you are interested in advertising on :SiteName contact us at [contact@soukdearborn.com](mailto:contact@soukdearborn.com)
