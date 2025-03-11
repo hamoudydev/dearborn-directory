@@ -26,8 +26,8 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      posthogPublicKey: 'phc_OCTWV33ANMRGxyFUYzugNW7mLl4leM4Ei5vah32XFCA',
-      posthogHost: 'https://us.i.posthog.com',
+      posthogPublicKey: process.env.POSTHOG_PUBLIC_KEY,
+      posthogHost: process.env.POSTHOG_HOST,
       mdc: {
         headings: {
           anchorLinks: {
