@@ -12,7 +12,6 @@ og_image:
 
 Find a local business below
 
-
 ---
 
 Here is your starting listings grid 👇
