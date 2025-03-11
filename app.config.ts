@@ -114,7 +114,7 @@ export default defineAppConfig({
         title: "Blog", links: [{ title: "Articles", link: "/blog" }],
       },
       {
-        title: "Legal", links: [{ title: "Privacy Policy", link: "/legal/terms-of-service" }, { title: "Terms of Service", link: "/legal/privacy-policy" }],
+        title: "Legal", links: [{ title: "Privacy Policy", link: "/privacy-policy" }, { title: "Terms of Service", link: "/terms-of-service" }],
       },
     ],
     socials: {
@@ -131,11 +131,11 @@ export default defineAppConfig({
         icon: 'tabler:brand-instagram',
       },
       x: {
-        link: 'https://x.com/mark_bruderer',
+        link: '',
         icon: 'tabler:brand-twitter',
       },
       youtube: {
-        link: 'https://www.youtube.com/@mark_hacks',
+        link: '',
         icon: 'tabler:brand-youtube',
       },
     },

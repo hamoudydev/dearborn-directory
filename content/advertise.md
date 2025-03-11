@@ -28,4 +28,4 @@ Here’s an example of how featured listings will look to Souk Dearborn visitors
 
 ## Contact
 
-If you are interested in advertising on :site-name contact us at <contact@soukdearborn.com>
+If you are interested in advertising on :site-name contact us at <info@soukdearborn.com>
