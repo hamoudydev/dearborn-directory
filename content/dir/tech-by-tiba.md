@@ -5,6 +5,7 @@ tags:
   - websites
   - IT
 card_image: /techbytiba.png
+description: Technology consultant, web developer, systems administrator, IT support
 ---
 
 # Tech by Tiba

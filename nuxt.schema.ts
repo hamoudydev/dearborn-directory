@@ -245,6 +245,8 @@ export default defineNuxtSchema({
             { name: 'IT' },
             { name: 'mortgage' },
             { name: 'real estate' },
+            { name: 'clothing' },
+            { name: 'shoes' },
           ],
         }),
         tagPages: group({

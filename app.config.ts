@@ -62,6 +62,8 @@ export default defineAppConfig({
       { name: 'IT' },
       { name: 'mortgage' },
       { name: 'real estate' },
+      { name: 'clothing' },
+      { name: 'shoes' },
     ],
     tagPages: {
       title: 'Available {0} products:',

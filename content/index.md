@@ -10,11 +10,6 @@ og_image:
 
 # A Business Directory for the Dearborn Community! 👋
 
-Find a local business below
-
----
-
-Here is your starting listings grid 👇
 
 ::search
 ::
