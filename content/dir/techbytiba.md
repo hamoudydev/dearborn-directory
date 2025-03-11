@@ -12,4 +12,4 @@ card_image: /listings/techbytiba.png
 
 Creator of this directory and Business Technology Consultant.
 
-\[Website]{https\://techbytiba.com)
+[Website](https://techbytiba.com)
