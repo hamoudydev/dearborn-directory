@@ -9,7 +9,7 @@ export default defineNuxtSchema({
         title: field({
           type: 'string',
           title: 'Title',
-          description: 'Title of the application.',
+          description: 'Title of the business.',
           default: 'New Directory',
         }),
         language: field({
@@ -21,7 +21,7 @@ export default defineNuxtSchema({
         logo: field({
           type: 'media',
           title: 'Logo',
-          description: 'Logo of the application.',
+          description: 'Logo of the business.',
           default: '/logo.png',
         }),
       },
@@ -34,7 +34,7 @@ export default defineNuxtSchema({
           type: 'string',
           title: 'Title',
           description:
-            'Title of the application. If empty general title will be used.',
+            'Title of the business. If empty general title will be used.',
         }),
         description: field({
           type: 'string',
@@ -55,7 +55,7 @@ export default defineNuxtSchema({
             emoji: field({
               type: 'string',
               title: 'emoji favicon',
-              default: '🍃',
+              default: '📍',
             }),
             image: field({
               type: 'file',
@@ -242,11 +242,11 @@ export default defineNuxtSchema({
           default: [
             { name: 'consulting', color: 'blue' },
             { name: 'websites', color: 'green' },
-            { name: 'IT' },
-            { name: 'mortgage' },
-            { name: 'real estate' },
-            { name: 'clothing' },
-            { name: 'shoes' },
+            { name: 'IT', color: 'green' },
+            { name: 'mortgage', color: 'green' },
+            { name: 'real estate', color: 'green' },
+            { name: 'clothing', color: 'green' },
+            { name: 'shoes', color: 'green' },
           ],
         }),
         tagPages: group({
@@ -287,7 +287,7 @@ export default defineNuxtSchema({
               type: 'string',
               title: 'Link',
               description: 'Link for the banner.',
-              default: 'https://github.com/masterkram/nuxt-directory',
+              default: 'https://soukdearborn.com/advertise',
             }),
             brandText: field({
               type: 'string',

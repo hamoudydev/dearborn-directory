@@ -1,5 +1,6 @@
 {
-  "name": "minted-directory",
+  "name": "souk-dearborn",
+  "description": "Souk Dearborn is a marketplace for the Arab community in Dearborn, Michigan.",
   "private": true,
   "type": "module",
   "scripts": {

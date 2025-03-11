@@ -14,7 +14,9 @@ export default defineNuxtConfig({
   ],
   devtools: { enabled: true },
   site: {
-    url: 'https://example.com',
+    url: 'https://soukdearborn.com',
+    title: 'Souk Dearborn',
+    description: 'A Directory for the Dearborn community.',
   },
   colorMode: {
     classSuffix: '',

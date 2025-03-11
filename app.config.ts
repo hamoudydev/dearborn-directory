@@ -44,9 +44,9 @@ export default defineAppConfig({
       submit: {
         show: true,
         first: false,
-        title: 'Submit a template',
+        title: 'Submit a business',
         description:
-          'Submit a template to show off a good project to other people.',
+          'Submit a business to be added to Souk Dearborn, free!',
         hideable: true,
       },
     },
@@ -59,16 +59,16 @@ export default defineAppConfig({
     tags: [
       { name: 'consulting', color: 'blue' },
       { name: 'websites', color: 'green' },
-      { name: 'IT' },
-      { name: 'mortgage' },
-      { name: 'real estate' },
-      { name: 'clothing' },
-      { name: 'shoes' },
+      { name: 'IT', color: 'green' },
+      { name: 'mortgage', color: 'green' },
+      { name: 'real estate', color: 'green' },
+      { name: 'clothing', color: 'green' },
+      { name: 'shoes', color: 'green' },
     ],
     tagPages: {
       title: 'Available {0} products:',
       description:
-        'View all available tools and templates in the {0} category...',
+        'View all businesses in the {0} category...',
     },
   },
   header: {
@@ -97,7 +97,7 @@ export default defineAppConfig({
     },
   },
   footer: {
-    description: "Best directory for my niche.",
+    description: "Best directory for my business.",
     navigation: [
       {
         title: "Directory", links: [{ title: "Submit", link: "/submit" }, { title: "Advertise", link: "/advertise" }],
@@ -108,6 +108,8 @@ export default defineAppConfig({
           { title: "websites", link: "/tags/websites" },
           { title: "mortgage", link: "/tags/mortgage" },
           { title: "real estate", link: "/tags/realestate" },
+          { title: "clothing", link: "/tags/clothing" },
+          { title: "shoes", link: "/tags/shoes" },
         ],
       },
       {
