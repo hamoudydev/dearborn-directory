@@ -84,7 +84,7 @@ export default defineAppConfig({
         { name: 'Advertise', to: '/advertise' },
         {
           name: 'Analytics',
-          to: 'https://us.posthog.com/shared/7dgSk4cvgNYnJwBu6R47kZXHBUBJWQ',
+          to: 'https://us.posthog.com/shared/mjiPyFRqnY_LtGXZEOamOO6rxstKJw',
           target: '_blank',
         },
       ],
