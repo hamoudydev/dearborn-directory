@@ -59,11 +59,11 @@ export default defineAppConfig({
     tags: [
       { name: 'consulting', color: 'blue' },
       { name: 'websites', color: 'green' },
-      { name: 'IT', color: 'green' },
-      { name: 'mortgage', color: 'green' },
-      { name: 'real estate', color: 'green' },
-      { name: 'clothing', color: 'green' },
-      { name: 'shoes', color: 'green' },
+      { name: 'IT', color: 'yellow' },
+      { name: 'mortgage', color: 'teal' },
+      { name: 'real estate', color: 'red' },
+      { name: 'clothing', color: 'amber' },
+      { name: 'shoes', color: 'orange' },
     ],
     tagPages: {
       title: 'Available {0} products:',
