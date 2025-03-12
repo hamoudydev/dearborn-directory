@@ -1,7 +1,8 @@
 ---
 card_image: /vueoptometry_logo.png
 featured: false
-tags: null
+tags: 
+    - optometrist
 description: 🌟 Discover the Vùe Eye Boutique Difference! 🌟
 ---
 
