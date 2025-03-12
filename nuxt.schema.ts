@@ -88,7 +88,7 @@ export default defineNuxtSchema({
               type: 'string',
               title: 'Featured Text',
               description: 'Text to display for featured items.',
-              default: 'Featured ✨',
+              default: 'Sponsored ✨',
             }),
             icon: field({
               type: 'icon',
@@ -112,7 +112,7 @@ export default defineNuxtSchema({
               type: 'icon',
               title: 'Icon',
               description: 'Icon for the search input.',
-              default: 'tabler:bow',
+              default: 'tabler:search',
             }),
             tags: group({
               title: 'Tags',

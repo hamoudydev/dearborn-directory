@@ -21,7 +21,7 @@ export default defineAppConfig({
     listingPageLayout: 'card',
     search: {
       placeholder: 'Search {0} businesses',
-      icon: 'tabler:bow',
+      icon: 'tabler:search',
       tags: {
         // options: none,select,show-all,
         display: 'select',
@@ -54,7 +54,7 @@ export default defineAppConfig({
       showOnAllPages: true,
       showOnSide: true,
       icon: 'tabler:star',
-      labelForCard: 'Featured ✨',
+      labelForCard: 'Sponsored ✨',
     },
     tags: [
       { name: 'accounting' },
