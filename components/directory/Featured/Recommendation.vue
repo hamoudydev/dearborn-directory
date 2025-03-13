@@ -9,11 +9,11 @@ const featuredExists = computed(() => featured.value);
 
 <template>
   <div v-if="featuredExists"
-    class="flex flex-row flex-wrap border bg-gray-50 dark:bg-gray-700 dark:border-gray-600 border-gray-200 rounded-lg p-6 gap-3">
+    class="flex flex-row flex-wrap border bg-gray-50 border-gray-200 rounded-lg p-6 gap-3">
     <div class="flex flex-col justify-between">
       <div class="space-y-2 max-w-40">
-        <p class="font-bold text-2xl dark:text-white tracking-tight">{{ featured?.title }}</p>
-        <p class="text-gray-700 italic dark:text-gray-300">{{ featured?.description }}</p>
+        <p class="font-bold text-2xl tracking-tight">{{ featured?.title }}</p>
+        <p class="text-gray-700 italic">{{ featured?.description }}</p>
       </div>
       <NuxtLink class="mt-3" :to="featured._path">
         <UiButton icon="tabler:click">Learn More</UiButton>

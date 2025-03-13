@@ -9,7 +9,7 @@ const hidden: Ref<boolean> = useCookie('hide-submit-box');
   <div v-if="!hidden">
     <div
       v-if="config?.card?.type !== 'bullet'"
-      class="relative h-full block w-full space-y-2 rounded-lg border-2 border-dashed border-gray-300 dark:border-gray-600 p-12 hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+      class="relative h-full block w-full space-y-2 rounded-lg border-2 border-dashed border-gray-300 p-12 hover:border-gray-400 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
     >
       <Icon
         size="49"
@@ -18,7 +18,7 @@ const hidden: Ref<boolean> = useCookie('hide-submit-box');
       <p>
         <NuxtLink
           to="/submit"
-          class="font-bold dark:text-white underline"
+          class="font-bold underline"
         >{{ config?.submit?.title }}</NuxtLink>
       </p>
       <p>
@@ -28,7 +28,7 @@ const hidden: Ref<boolean> = useCookie('hide-submit-box');
     <NuxtLink
       v-else
       to="/submit"
-      class="inline-flex items-center gap-2 underline decoration-gray-300 dark:decoration-gray-600"
+      class="inline-flex items-center gap-2 underline decoration-gray-300"
     >
       <Icon
         size="22"

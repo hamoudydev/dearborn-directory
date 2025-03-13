@@ -15,7 +15,7 @@ const link = props.fullPath ? props.item.path : `/${props.item.path.split('/')[2
   <NuxtLink
     v-if="cardConfig?.type !== 'bullet'"
     :to="link"
-    class="border col-span-1 border-gray-200 dark:border-gray-500 hover:border-primary-400 hover:border-solid dark:hover:border-primary-300 rounded relative group transition-all"
+    class="border col-span-1 border-gray-200 hover:border-primary-400 hover:border-solid rounded relative group transition-all"
     :class="cardConfig?.type === 'shadow' ? 'shadow-sm' : cardConfig?.type === 'dashed' ? 'border-dashed' : ''"
   >
     <DirectoryFeaturedTag
@@ -31,12 +31,12 @@ const link = props.fullPath ? props.item.path : `/${props.item.path.split('/')[2
     />
     <div
       v-else
-      class="w-full h-48 flex justify-center items-center rounded-t font-bold text-2xl bg-gray-200 dark:bg-gray-600"
+      class="w-full h-48 flex justify-center items-center rounded-t font-bold text-2xl bg-gray-200"
     >
       {{ item.title }}
     </div>
     <div class="p-6">
-      <h3 class="m-0 text-lg font-semibold dark:text-gray-50">
+      <h3 class="m-0 text-lg font-semibold">
         {{ item.title }}
       </h3>
       <p class="line-clamp-4 mt-2">
@@ -60,8 +60,8 @@ const link = props.fullPath ? props.item.path : `/${props.item.path.split('/')[2
         class="h-5 w-5"
         :src="item.cover ?? '/logo.png'"
       >
-      <span class="font-semibold dark:text-gray-50">{{ item.title }}</span> -
-      <span class="text-gray-600 dark:text-gray-300">{{ item.description }}</span>
+      <span class="font-semibold">{{ item.title }}</span> -
+      <span class="text-gray-600">{{ item.description }}</span>
     </div>
   </NuxtLink>
 </template>

@@ -111,7 +111,7 @@ export default defineAppConfig({
       brandText: 'inDearborn',
     },
     navbar: {
-      colorModeSelector: true,
+      colorModeSelector: false,
       links: [
         { name: 'Directory', to: '/' },
         { name: 'Blog', to: '/blog' },

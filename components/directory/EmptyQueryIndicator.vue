@@ -13,7 +13,7 @@ const config = useAppConfig().directory.grid;
     >{{ config.emptyState.text }}</NuxtLink>
     <div
       v-if="config?.emptyState?.type === 'button'"
-      class="border border-dashed border-gray-200 dark:border-gray-500 flex flex-col items-center justify-center gap-3 rounded px-2 py-12"
+      class="border border-dashed border-gray-200 flex flex-col items-center justify-center gap-3 rounded px-2 py-12"
     >
       <Icon
         size="50"

@@ -16,10 +16,10 @@ const config = useAppConfig();
     />
     <Icon
       v-else-if="config?.general?.iconLogo"
-      class="w-7 h-7 text-gray-600 dark:text-white"
+      class="w-7 h-7 text-gray-600"
       :name="config?.general?.iconLogo"
     />
-    <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">{{ config.general.title
+    <span class="self-center text-2xl font-semibold whitespace-nowrap">{{ config.general.title
     }}</span>
   </NuxtLink>
 </template>

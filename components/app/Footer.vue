@@ -8,7 +8,7 @@ const navigation = computed(() => config.footer.navigation ? Object.values(confi
 
 <template>
   <footer
-    class="border-t dark:border-gray-600 font-display"
+    class="border-t font-display"
     aria-labelledby="footer-heading"
   >
     <h2
@@ -52,7 +52,7 @@ const navigation = computed(() => config.footer.navigation ? Object.values(confi
                 >
                   <NuxtLink
                     :to="item.link"
-                    class="text-sm leading-6 text-gray-600 dark:text-gray-300 hover:dark:text-gray-400 hover:text-gray-900"
+                    class="text-sm leading-6 text-gray-600 hover:text-gray-900"
                   >
                     {{ item.title }}
                   </NuxtLink>
@@ -72,7 +72,7 @@ const navigation = computed(() => config.footer.navigation ? Object.values(confi
                 >
                   <a
                     :href="item.link"
-                    class="text-sm leading-6 text-gray-600 dark:text-gray-300 hover:dark:text-gray-400 hover:text-gray-900"
+                    class="text-sm leading-6 text-gray-600 hover:text-gray-900"
                   >{{
                     item.title }}</a>
                 </li>
@@ -81,7 +81,7 @@ const navigation = computed(() => config.footer.navigation ? Object.values(confi
           </div>
         </div>
       </div>
-      <div class="mt-16 border-t border-gray-900/10 dark:border-gray-600 pt-8 sm:mt-20 lg:mt-24">
+      <div class="mt-16 border-t border-gray-900/10 pt-8 sm:mt-20 lg:mt-24">
         <p class="text-xs leading-5 text-gray-500">
           &copy; {{ new Date().getFullYear() }} {{ config.general.title }} All
           rights
