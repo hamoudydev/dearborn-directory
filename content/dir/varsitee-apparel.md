@@ -1,0 +1,12 @@
+---
+card_image: /
+featured: false
+tags:
+    - clothing
+description: "Tailored for the Elite" We Specialize in in Sublimation, DTF, and Embroidered Products. No Minimums!! Any design you want, we make it!
+---
+
+# 
+
+
+[Instagram](https://www.instagram.com/varsitee_apparel/)

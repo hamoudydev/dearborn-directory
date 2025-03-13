@@ -2,7 +2,7 @@
 card_image: /commonwealth.png
 featured: false
 tags:
-    - accounting
+    - accountant
 description: Accounting for Entrepreneurs That Maximizes Tax Savings
 ---
 

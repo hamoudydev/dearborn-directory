@@ -1,6 +1,6 @@
 export default defineAppConfig({
   general: {
-    title: 'Souk Dearborn',
+    title: 'inDearborn',
     logo: '',
     iconLogo: 'fluent-emoji-flat:round-pushpin',
     language: 'en',
@@ -9,9 +9,9 @@ export default defineAppConfig({
     // override the general settings for seo tags.
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
-    name: 'Souk Dearborn',
+    name: 'inDearborn',
     description: 'A Directory for the Dearborn community.',
-    url: 'https://soukdearborn.com',
+    url: 'https://inDearborn.com',
     favicon: {
       image: '',
       emoji: '📍',
@@ -46,7 +46,7 @@ export default defineAppConfig({
         first: false,
         title: 'Submit a business',
         description:
-          'Submit a business to be added to Souk Dearborn, free!',
+          'Submit a business to be added to inDearborn, free!',
         hideable: true,
       },
     },
@@ -57,7 +57,7 @@ export default defineAppConfig({
       labelForCard: 'Sponsored ✨',
     },
     tags: [
-      { name: 'accounting' },
+      { name: 'accountant' },
       { name: 'attorney' },
       { name: 'auto dealer' },
       { name: 'bakery' },
@@ -68,6 +68,7 @@ export default defineAppConfig({
       { name: 'day care' },
       { name: 'dentist' },
       { name: 'electrician' },
+      { name: 'florist' },
       { name: 'garden' },
       { name: 'grocery' },
       { name: 'handyman' },
@@ -80,6 +81,7 @@ export default defineAppConfig({
       { name: 'juice' },
       { name: 'marketing' },
       { name: 'mechanic' },
+      { name: 'med spa' },
       { name: 'meat market' },
       { name: 'mortgage' },
       { name: 'oil change' },
@@ -89,6 +91,7 @@ export default defineAppConfig({
       { name: 'real estate' },
       { name: 'restaurant' },
       { name: 'roofing' },
+      { name: 'salon' },
       { name: 'shoes' },
       { name: 'smoothie' },
       { name: 'sweets' },
@@ -104,11 +107,11 @@ export default defineAppConfig({
     banner: {
       show: true,
       text: 'Advertise with us!',
-      link: 'https://soukdearborn.com/advertise',
-      brandText: 'SoukDearborn',
+      link: 'https://inDearborn.com/advertise',
+      brandText: 'inDearborn',
     },
     navbar: {
-      colorModeSelector: true,
+      colorModeSelector: false,
       links: [
         { name: 'Directory', to: '/' },
         { name: 'Blog', to: '/blog' },
@@ -158,7 +161,7 @@ export default defineAppConfig({
         icon: 'tabler:brand-facebook',
       },
       instagram: {
-        link: '',
+        link: 'https://instagram.com/indearborn',
         icon: 'tabler:brand-instagram',
       },
       x: {

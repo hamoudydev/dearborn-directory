@@ -1,23 +1,23 @@
-## Terms of Service for Souk Dearborn
+## Terms of Service for inDearborn
 Last Updated: March 11, 2025
 
-Welcome to Souk Dearborn, a local business directory serving Dearborn, MI, and Dearborn Heights, MI. By accessing or using our website, you agree to comply with and be bound by the following Terms of Service. If you do not agree to these terms, please do not use our website.
+Welcome to inDearborn, a local business directory serving Dearborn, MI, and Dearborn Heights, MI. By accessing or using our website, you agree to comply with and be bound by the following Terms of Service. If you do not agree to these terms, please do not use our website.
 
 #### 1. Acceptance of Terms
 
-By using Souk Dearborn, you confirm that you are at least 18 years old or have the consent of a parent or guardian to use this website. You agree to abide by these Terms of Service and any additional guidelines or policies we may provide.
+By using inDearborn, you confirm that you are at least 18 years old or have the consent of a parent or guardian to use this website. You agree to abide by these Terms of Service and any additional guidelines or policies we may provide.
 
 #### 2. Free Listings
 
-Businesses located within Dearborn, MI, and Dearborn Heights, MI are eligible to list their business on Souk Dearborn free of charge. By submitting a listing, you agree to provide accurate and up-to-date information about your business. Souk Dearborn reserves the right to remove or modify any listing that violates these terms or is deemed inappropriate.
+Businesses located within Dearborn, MI, and Dearborn Heights, MI are eligible to list their business on inDearborn free of charge. By submitting a listing, you agree to provide accurate and up-to-date information about your business. inDearborn reserves the right to remove or modify any listing that violates these terms or is deemed inappropriate.
 
 #### 3. Featured Listings
 
-Businesses may request to be featured on Souk Dearborn for a fee. Featured listings may include enhanced visibility, promotional opportunities, or other benefits as determined by Souk Dearborn. Payment terms, pricing, and features will be communicated at the time of the request. Featured listings are subject to approval by Souk Dearborn.
+Businesses may request to be featured on inDearborn for a fee. Featured listings may include enhanced visibility, promotional opportunities, or other benefits as determined by inDearborn. Payment terms, pricing, and features will be communicated at the time of the request. Featured listings are subject to approval by inDearborn.
 
 #### 4. User Responsibilities
 
-By using Souk Dearborn, you agree to:
+By using inDearborn, you agree to:
 
 - Provide accurate and truthful information in your business listing.
 - Not use the website for any illegal or unauthorized purpose.
@@ -26,19 +26,19 @@ By using Souk Dearborn, you agree to:
 
 #### 5. Intellectual Property
 
-All content on Souk Dearborn, including text, graphics, logos, and design, is the property of Souk Dearborn or its licensors and is protected by copyright and other intellectual property laws. You may not reproduce, distribute, or use any content from the website without prior written permission.
+All content on inDearborn, including text, graphics, logos, and design, is the property of inDearborn or its licensors and is protected by copyright and other intellectual property laws. You may not reproduce, distribute, or use any content from the website without prior written permission.
 
 #### 6. Limitation of Liability
 
-Souk Dearborn is provided "as is" and "as available." We do not guarantee the accuracy, completeness, or reliability of any information on the website. To the fullest extent permitted by law, Souk Dearborn and its owners, employees, and affiliates shall not be liable for any damages arising from your use of the website, including but not limited to direct, indirect, incidental, or consequential damages.
+inDearborn is provided "as is" and "as available." We do not guarantee the accuracy, completeness, or reliability of any information on the website. To the fullest extent permitted by law, inDearborn and its owners, employees, and affiliates shall not be liable for any damages arising from your use of the website, including but not limited to direct, indirect, incidental, or consequential damages.
 
 #### 7. Indemnification
 
-You agree to indemnify and hold harmless Souk Dearborn, its owners, employees, and affiliates from any claims, damages, or expenses arising from your use of the website, your violation of these Terms of Service, or your violation of any rights of a third party.
+You agree to indemnify and hold harmless inDearborn, its owners, employees, and affiliates from any claims, damages, or expenses arising from your use of the website, your violation of these Terms of Service, or your violation of any rights of a third party.
 
 #### 8. Termination
 
-Souk Dearborn reserves the right to suspend or terminate your access to the website at any time, with or without notice, for any reason, including but not limited to a violation of these Terms of Service.
+inDearborn reserves the right to suspend or terminate your access to the website at any time, with or without notice, for any reason, including but not limited to a violation of these Terms of Service.
 
 #### 9. Changes to Terms of Service
 
@@ -46,9 +46,9 @@ We may update these Terms of Service from time to time. Any changes will be post
 
 #### 10. Governing Law
 
-These Terms of Service are governed by the laws of the State of Michigan, United States. Any disputes arising from your use of Souk Dearborn shall be resolved in the courts of Michigan.
+These Terms of Service are governed by the laws of the State of Michigan, United States. Any disputes arising from your use of inDearborn shall be resolved in the courts of Michigan.
 
 #### 11. Contact Us
 
 If you have any questions or concerns about these Terms of Service, please contact us at:
-Email: [info@soukdearborn.com](mailto:info@soukdearborn.com)
+Email: [info@inDearborn.com](mailto:info@inDearborn.com)

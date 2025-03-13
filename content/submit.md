@@ -1,4 +1,4 @@
-# Submit your business to be added to Souk Dearborn for free!
+# Submit your business to be added to inDearborn for free!
 
 ---
 

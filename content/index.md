@@ -1,14 +1,14 @@
 ---
 layout: wide
 og_image:
-  title: Souk Dearborn
+  title: inDearborn
   description: A Directory for the Dearborn Community
 ---
 
 ::pre-render-tags
 ::
 
-# A Business Directory for the Dearborn Community! 👋
+# Find it, in Dearborn
 
 
 ::search

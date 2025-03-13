@@ -2,7 +2,7 @@
 card_image: /skin-md.png
 featured: false
 tags: 
-    - health
+    - med spa
 description: Premiere Aesthetic Treatments
 ---
 

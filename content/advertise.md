@@ -12,20 +12,25 @@ icon: tabler:ad-2
 # Advertise your business!
 
 #description
-Reach out to thousands of customers who visit and explore SoukDearborn every month. By advertising your business here, you’ll be able to connect directly with this engaged audience. 🚀
+Reach out to thousands of customers who visit and explore inDearborn every month. By advertising your business here, you’ll be able to connect directly with this engaged audience. 🚀 Our analytics are publicly available to view [here](https://us.posthog.com/shared/mjiPyFRqnY_LtGXZEOamOO6rxstKJw).
 ::
 
 ---
 
-## Featured Listings
+## Sponsored Listings
 
-Even in free directories, we offer featured or boosted listings. Businesses can pay for a premium position at the top of the directory, ensuring maximum visibility. Featured listings are highlighted to stand out, making it easier for potential customers to find and engage with businesses.
+Business listings are free, we do however offer sponsored listings. Businesses can pay for a premium position at the top of the directory, ensuring maximum visibility. Sponsored listings are highlighted to stand out, making it easier for potential customers to find and engage with businesses.
 
-Here’s an example of how featured listings will look to Souk Dearborn visitors:
+Here’s an example of how sponsored listings will look to inDearborn visitors:
 
 ::feature-example
 ::
 
-## Contact
 
-If you are interested in advertising on :site-name contact us at <info@soukdearborn.com>
+If you are interested in advertising on inDearborn please fill out the form below and we'll be in touch.
+
+::tally-form
+---
+embed: https://tally.so/embed/wvKxgl?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1
+---
+::

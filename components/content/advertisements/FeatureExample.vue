@@ -1,7 +1,7 @@
 <script setup>
 const item = computed(() => ({
-  title: "My Awesome Product",
-  description: "This product is a great way to do things.",
+  title: "My Business",
+  description: "This is a business description.",
   featured: true,
 }));
 </script>

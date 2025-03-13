@@ -26,7 +26,7 @@ const link = props.fullPath ? props.item.path : `/${props.item.path.split('/')[2
       v-if="item.card_image"
       sizes="400px"
       :alt="`${item.title} banner`"
-      class="w-full h-48 rounded-t object-cover"
+      class="w-full h-48 rounded-t object-contain"
       :src="item.card_image ?? '/logo.png'"
     />
     <div

@@ -14,8 +14,8 @@ export default defineNuxtConfig({
   ],
   devtools: { enabled: true },
   site: {
-    url: 'https://soukdearborn.com',
-    title: 'Souk Dearborn',
+    url: 'https://inDearborn.com',
+    title: 'inDearborn',
     description: 'A Directory for the Dearborn community.',
   },
   colorMode: {

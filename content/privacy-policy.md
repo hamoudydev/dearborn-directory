@@ -1,11 +1,11 @@
-## Privacy Policy for Souk Dearborn
+## Privacy Policy for inDearborn
 Last Updated: March 3, 2025
 
-Thank you for visiting Souk Dearborn, your local business directory. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we handle information when you use our website.
+Thank you for visiting inDearborn, your local business directory. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we handle information when you use our website.
 
 #### 1. Information We Collect
 
-Souk Dearborn does not collect personal information such as names, email addresses, phone numbers, or payment details. The only data we collect is through Posthog, a third-party analytics tool, to help us understand how visitors interact with our website. This data is anonymized and does not identify you personally.
+inDearborn does not collect personal information such as names, email addresses, phone numbers, or payment details. The only data we collect is through Posthog, a third-party analytics tool, to help us understand how visitors interact with our website. This data is anonymized and does not identify you personally.
 
 The information collected by Posthog may include:
 
@@ -41,4 +41,4 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 #### 8. Contact Us
 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
-Email: [info@soukdearborn.com](mailto:info@soukdearborn.com)
+Email: [info@inDearborn.com](mailto:info@inDearborn.com)
