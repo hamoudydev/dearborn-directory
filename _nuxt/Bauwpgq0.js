@@ -1,1 +1,0 @@
-import{X as r,Y as u,Z as i}from"./DT9msYUP.js";import{u as m}from"./Bm5TmeEZ.js";import"./CJNz9Grc.js";import"./hs7iW6aP.js";const p=r(async(s,d)=>{var o;let t,a;const{data:e}=([t,a]=u(()=>m(s)),t=await t,a(),t);i(((o=e==null?void 0:e.value)==null?void 0:o.layout)||"default")});export{p as default};
