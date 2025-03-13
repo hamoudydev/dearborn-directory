@@ -12,13 +12,19 @@
             <image:loc>https://inDearborn.com/_ipx/w_800/bayt-al-mocha.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://inDearborn.com/_ipx/w_800/bliss-pro-center.jpg</image:loc>
+            <image:loc>https://inDearborn.com/_ipx/w_800/black-box-coffee.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://inDearborn.com/_ipx/w_800/bliss-pro-center.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/bora-bora.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/bright-behavior-therapy.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://inDearborn.com/_ipx/w_800/brome-modern-eatery.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/commonwealth.jpg</image:loc>
@@ -60,6 +66,9 @@
             <image:loc>https://inDearborn.com/_ipx/w_800/just-kids.png</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://inDearborn.com/_ipx/w_800/modern-greek.png</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/planet-dumpster-rentals.jpg</image:loc>
         </image:image>
         <image:image>
@@ -90,9 +99,6 @@
             <image:loc>https://inDearborn.com/_ipx/w_800/vara-juice.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://inDearborn.com/_ipx/w_800</image:loc>
-        </image:image>
-        <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/volt-care.png</image:loc>
         </image:image>
         <image:image>
@@ -115,6 +121,9 @@
         <loc>https://inDearborn.com/bayt-al-mocha</loc>
     </url>
     <url>
+        <loc>https://inDearborn.com/black-box-coffee</loc>
+    </url>
+    <url>
         <loc>https://inDearborn.com/bliss-professional-center</loc>
     </url>
     <url>
@@ -127,6 +136,9 @@
         <loc>https://inDearborn.com/bright-behavior-therapy</loc>
     </url>
     <url>
+        <loc>https://inDearborn.com/brome-modern-eatery</loc>
+    </url>
+    <url>
         <loc>https://inDearborn.com/commonwealth-group</loc>
     </url>
     <url>
@@ -137,6 +149,9 @@
     </url>
     <url>
         <loc>https://inDearborn.com/district-12</loc>
+    </url>
+    <url>
+        <loc>https://inDearborn.com/edit</loc>
     </url>
     <url>
         <loc>https://inDearborn.com/exclusive-event-rentals</loc>
@@ -164,6 +179,9 @@
     </url>
     <url>
         <loc>https://inDearborn.com/just-kids-party-rentals</loc>
+    </url>
+    <url>
+        <loc>https://inDearborn.com/modern-greek</loc>
     </url>
     <url>
         <loc>https://inDearborn.com/planet-dumpster-rentals</loc>
@@ -267,6 +285,9 @@
     <url>
         <loc>https://inDearborn.com/tags/burgers</loc>
         <image:image>
+            <image:loc>https://inDearborn.com/_ipx/w_800/brome-modern-eatery.png</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/district-12.jpg</image:loc>
         </image:image>
     </url>
@@ -278,14 +299,14 @@
         <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/sneaker-legends.jpg</image:loc>
         </image:image>
-        <image:image>
-            <image:loc>https://inDearborn.com/_ipx/w_800</image:loc>
-        </image:image>
     </url>
     <url>
         <loc>https://inDearborn.com/tags/coffee</loc>
         <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/bayt-al-mocha.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://inDearborn.com/_ipx/w_800/black-box-coffee.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/jabal-coffee-house.png</image:loc>
@@ -363,6 +384,9 @@
             <image:loc>https://inDearborn.com/_ipx/w_800/bora-bora.webp</image:loc>
         </image:image>
         <image:image>
+            <image:loc>https://inDearborn.com/_ipx/w_800/brome-modern-eatery.png</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/potato-pit.png</image:loc>
         </image:image>
         <image:image>
@@ -384,7 +408,7 @@
     <url>
         <loc>https://inDearborn.com/tags/med%20spa</loc>
         <image:image>
-            <image:loc>https://inDearborn.com/_ipx/w_800/bliss-pro-center.jpg</image:loc>
+            <image:loc>https://inDearborn.com/_ipx/w_800/bliss-pro-center.webp</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/skin-md.png</image:loc>
@@ -450,10 +474,16 @@
     <url>
         <loc>https://inDearborn.com/tags/restaurant</loc>
         <image:image>
+            <image:loc>https://inDearborn.com/_ipx/w_800/brome-modern-eatery.png</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/corn-on-the-corner.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/district-12.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://inDearborn.com/_ipx/w_800/modern-greek.png</image:loc>
         </image:image>
         <image:image>
             <image:loc>https://inDearborn.com/_ipx/w_800/potato-pit.png</image:loc>
@@ -465,7 +495,7 @@
     <url>
         <loc>https://inDearborn.com/tags/salon</loc>
         <image:image>
-            <image:loc>https://inDearborn.com/_ipx/w_800/bliss-pro-center.jpg</image:loc>
+            <image:loc>https://inDearborn.com/_ipx/w_800/bliss-pro-center.webp</image:loc>
         </image:image>
     </url>
     <url>
@@ -502,4 +532,4 @@
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.2.6 at 2025-03-13T20:20:11.195Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.2.6 at 2025-03-13T21:02:13.543Z -->
