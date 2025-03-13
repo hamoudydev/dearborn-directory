@@ -1,5 +1,5 @@
 ---
-card_image: /commonwealth.png
+card_image: /commonwealth.jpg
 featured: false
 tags:
     - accountant
