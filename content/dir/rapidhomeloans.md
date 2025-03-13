@@ -1,5 +1,5 @@
 ---
-card_image: /rapid-home-loans.jpg
+card_image: /rapid-home-loans.png
 featured: false
 tags:
   - mortgage
