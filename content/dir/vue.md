@@ -8,13 +8,13 @@ description: 🌟 Discover the Vùe Eye Boutique Difference! 🌟
 
 # VUE Eye Boutique
 
-Address: [23520 Ford Rd., Dearborn Heights, MI 48127](https://maps.app.goo.gl/B6vd8kkEUHac1LcA7)
-
-Phone: [313-895-7205](tel:313-895-7205)
-
 [Website](https://vueoptometry.com)
 
 [Instagram](https://www.instagram.com/vueoptometry/)
+
+Address: [23520 Ford Rd., Dearborn Heights, MI 48127](https://maps.app.goo.gl/B6vd8kkEUHac1LcA7)
+
+Phone: [313-895-7205](tel:313-895-7205)
 
 🌟 Discover the Vùe Eye Boutique Difference! 🌟
 

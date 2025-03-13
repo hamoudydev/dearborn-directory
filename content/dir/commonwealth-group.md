@@ -8,13 +8,13 @@ description: Accounting for Entrepreneurs That Maximizes Tax Savings
 
 # The CommonWealth Group
 
-Address: [15020 Michigan Ave, Dearborn, MI 48126](https://maps.app.goo.gl/N8XrSJbqBUj7kQ2b6)
-
-Phone: [313-749-8400](tel:313-749-8400)
-
 [Website](https://thecwealth.com)
 
 [Instagram](https://www.instagram.com/thecommonwealthgroup/)
+
+Address: [15020 Michigan Ave, Dearborn, MI 48126](https://maps.app.goo.gl/N8XrSJbqBUj7kQ2b6)
+
+Phone: [313-749-8400](tel:313-749-8400)
 
 ## Entrepreneurs first, Accountants Second
 

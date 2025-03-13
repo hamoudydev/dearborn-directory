@@ -122,7 +122,7 @@ export default defineAppConfig({
       colorModeSelector: false,
       links: [
         { name: 'Directory', to: '/' },
-        { name: 'Blog', to: '/blog' },
+        { name: 'Submit an Edit', to: '/edit' },
         { name: 'Advertise', to: '/advertise' },
         {
           name: 'Analytics',

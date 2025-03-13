@@ -8,10 +8,10 @@ description: Family-owned and operated Garden & Landscape Supply Store.
 
 # Fairlane Gardens
 
-Address: [4876 Greenfield Rd, Dearborn, MI 48126](https://maps.app.goo.gl/kLipdQtKXGDALwKa7)
-
-Phone: [313-581-7906](tel:313-581-7906)
-
 [Website](https://www.flgardens.com/)
 
 [Instagram](https://www.instagram.com/fairlanegardens/)
+
+Address: [4876 Greenfield Rd, Dearborn, MI 48126](https://maps.app.goo.gl/kLipdQtKXGDALwKa7)
+
+Phone: [313-581-7906](tel:313-581-7906)

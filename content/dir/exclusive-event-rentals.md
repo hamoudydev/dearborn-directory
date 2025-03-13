@@ -8,8 +8,8 @@ description: Michigan’s Finest Bounce House, Table & Chair, Tent & Party Renta
 
 # Exclusive Event Rentals Michigan
 
-Phone: [313-989-9229](tel:313-989-9229)
-
 [Website](https://exclusiveeventrentalsmichigan.com/)
 
 [Instagram](https://www.instagram.com/exclusiveeventrentalsmichigan/)
+
+Phone: [313-989-9229](tel:313-989-9229)

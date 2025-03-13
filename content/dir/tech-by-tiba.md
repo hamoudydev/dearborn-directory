@@ -11,8 +11,12 @@ description: Technology consultant, web developer, systems administrator, IT sup
 
 # Tech by Tiba
 
+[Website](https://techbytiba.com)
+
+[Instagram](https://instagram/techbytiba)
+
+Phone: [313-444-8384](tel:313-444-8384)
+
 Creator of this directory and Business Technology Consultant.
 
 Technology consultant, web developer, systems administrator, IT support.
-
-[Website](https://techbytiba.com)

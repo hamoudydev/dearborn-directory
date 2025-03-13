@@ -8,6 +8,6 @@ description: NEW 15 & 20 yd rubber wheel dumpsters available for rent. Call us f
 
 # Planet Dumpster Rentals
 
-Phone: [313-850-3500](tel:313-850-3500)
-
 [Instagram](https://www.instagram.com/planetdumspterrentals/)
+
+Phone: [313-850-3500](tel:313-850-3500)
