@@ -2,7 +2,7 @@
 layout: wide
 og_image:
   title: inDearborn
-  description: A Directory for the Dearborn Community
+  description: Find it, in Dearborn
 ---
 
 ::pre-render-tags

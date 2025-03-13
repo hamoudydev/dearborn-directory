@@ -10,7 +10,7 @@ export default defineAppConfig({
     // leave empty for general priority.
     // url is necessary for correct function of seo module.
     name: 'inDearborn',
-    description: 'A Directory for the Dearborn community.',
+    description: 'Find it, inDearborn',
     url: 'https://inDearborn.com',
     favicon: {
       image: '',

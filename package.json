@@ -1,6 +1,6 @@
 {
-  "name": "souk-dearborn",
-  "description": "inDearborn is a marketplace for the Arab community in Dearborn, Michigan.",
+  "name": "indearborn",
+  "description": "Find it, in Dearborn.",
   "private": true,
   "type": "module",
   "scripts": {

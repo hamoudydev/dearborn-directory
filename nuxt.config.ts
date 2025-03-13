@@ -16,7 +16,7 @@ export default defineNuxtConfig({
   site: {
     url: 'https://inDearborn.com',
     title: 'inDearborn',
-    description: 'A Directory for the Dearborn community.',
+    description: 'Find it, inDearborn',
   },
   colorMode: {
     classSuffix: '',
