@@ -4,7 +4,7 @@ featured: false
 tags: 
     - real estate
     - appraisals
-description: A full service residential Real Estate Valuation Firm based in Southeast Michigan.
+description: A full service residential Real Estate Valuation Firm based in Southeast Michigan. 
 ---
 
 # Appraisal House

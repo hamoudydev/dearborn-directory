@@ -2,7 +2,7 @@
 card_image: /corn-on-the-corner.png
 featured: false
 tags:
-    - food
+    - restaurant
 description: Feeling corny? | Always Fresh. Never Frozen. Made to Order.
 ---
 

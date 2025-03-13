@@ -1,8 +1,7 @@
 ---
 layout: wide
-og_image:
-  title: inDearborn
-  description: Find it, in Dearborn
+title: inDearborn
+description: Find it, in Dearborn
 ---
 
 ::pre-render-tags

@@ -1,12 +1,10 @@
 # Submit your business to be added to inDearborn for free!
 
----
 
-All businesses subject to manual review before being added.
+### PLEASE NOTE: All businesses subject to manual review before being added.
 
-If you are interested in promoting your business so that it is at the top of your category, please select 'yes' on the form and we will be in touch.
+Businesses must be located in Dearborn or Dearborn Heights to be listed. Some exceptions will be made to businesses that operate from a different city but serve Dearborn and Dearborn Heights (electricians, rental companies, etc.).
 
----
 
 ::tally-form
 ---
